@@ -1,2 +1,1 @@
-# epam_cleanCode
-# cleanCode :
+# cleanCode :)
